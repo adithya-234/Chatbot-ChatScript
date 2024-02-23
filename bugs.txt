@@ -1,0 +1,399 @@
+﻿Failed to load MeCab tagger
+Buffer allocation underflow
+No such directory VERIFY/*
+
+0 Tue Feb 13 21:00:53 2024 computerId <harry> loginId <adithya> callerIP <> in sentence:    :build harry
+Error opening utf8writeappend file VERIFY/childhood-b1.txt: No such file or directory
+
+0 Tue Feb 13 21:00:53 2024 computerId <harry> loginId <adithya> callerIP <> in sentence:    :build harry
+Buffer allocation underflow
+Buffer allocation underflow
+Buffer allocation underflow
+Buffer allocation underflow
+Failed to load MeCab tagger
+Failed to load MeCab tagger
+Buffer allocation underflow
+Buffer allocation underflow
+Buffer allocation underflow
+Buffer allocation underflow
+Buffer allocation underflow
+Buffer allocation underflow
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Buffer allocation underflow
+Buffer allocation underflow
+Buffer allocation underflow
+Buffer allocation underflow
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Buffer allocation underflow
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Buffer allocation underflow
+Buffer allocation underflow
+Buffer allocation underflow
+Buffer allocation underflow
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Buffer allocation underflow
+Failed to load MeCab tagger
+Failed to load MeCab tagger
+Failed to load MeCab tagger
+Buffer allocation underflow
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Buffer allocation underflow
+Buffer allocation underflow
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Buffer allocation underflow
+Buffer allocation underflow
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Buffer allocation underflow
+Buffer allocation underflow
+Buffer allocation underflow
+Buffer allocation underflow
+Buffer allocation underflow
+Failed to load MeCab tagger
+Failed to load MeCab tagger
+Failed to load MeCab tagger
+Failed to load MeCab tagger
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Buffer allocation underflow
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Buffer allocation underflow
+Buffer allocation underflow
+Buffer allocation underflow
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Buffer allocation underflow
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Buffer allocation underflow
+Buffer allocation underflow
+Buffer allocation underflow
+Buffer allocation underflow
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Buffer allocation underflow
+Buffer allocation underflow
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Failed to load MeCab tagger
+Buffer allocation underflow
+Buffer allocation underflow
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Buffer allocation underflow
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Failed to load MeCab tagger
+Failed to load MeCab tagger
+Buffer allocation underflow
+Buffer allocation underflow
+Failed to load MeCab tagger
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Failed to load MeCab tagger
+Failed to load MeCab tagger
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Failed to load MeCab tagger
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Failed to load MeCab tagger
+Failed to load MeCab tagger
+Failed to load MeCab tagger
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Failed to load MeCab tagger
+Buffer allocation underflow
+Buffer allocation underflow
+Buffer allocation underflow
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Error opening utf8writeappend file TOPIC/BUILD1/script1.txt: Permission denied
+
+1 Fri Feb 16 09:17:04 2024 computerId <harry> loginId <kilji> callerIP <> in sentence:    :build harry
+Buffer allocation underflow
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Buffer allocation underflow
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Buffer allocation underflow
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Buffer allocation underflow
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Buffer allocation underflow
+Buffer allocation underflow
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Buffer allocation underflow
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Failed to load MeCab tagger
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Buffer allocation underflow
+Buffer allocation underflow
+Failed to load MeCab tagger
+Buffer allocation underflow
+Buffer allocation underflow
+Failed to load MeCab tagger
+Failed to load MeCab tagger
+Buffer allocation underflow
+Failed to load MeCab tagger
